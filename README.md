@@ -34,9 +34,9 @@ find ./boost_1_69_0 -name "any.hpp"
 
 ![image](https://user-images.githubusercontent.com/87879854/155760915-272ad669-0b7e-4212-9bc1-f3b06df7d488.png)
 
-7. Все файлы, где упоминается boost::asio `grep -rL "boost::asio"`
+7. Все файлы, где упоминается boost::asio `grep -rl "boost::asio"`
 
-![image](https://user-images.githubusercontent.com/87879854/155762558-3ff2f5e6-d0b8-4d0d-b4e8-f57d65fbe741.png)
+![image](https://user-images.githubusercontent.com/87879854/157917167-5bfb69f0-5d87-42ab-9099-8b1e95ac9777.png)
 
 8. Сборка
 
